@@ -1,9 +1,10 @@
 # odin-recipes
 
-## about this project
+## About this project
+
 This is a simple webpage built using HTML and CSS as part of The odins project curriculum.
 
-## SkilLs Demontarted
+## Skills Demontarted
 
 -writting semantics HTML
 -styling in CSS.
