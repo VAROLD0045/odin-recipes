@@ -6,7 +6,7 @@ This is a simple webpage built using HTML and CSS as part of The odins project c
 
 ## Skills Demontarted
 
--writting semantics HTML
--styling in CSS.
--using git and github for version control.
--committing and pushing code to remote repository
+- writting semantics HTML
+- styling in CSS.
+- using git and github for version control.
+- committing and pushing code to remote repository
